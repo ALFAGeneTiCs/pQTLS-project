@@ -1,1 +1,3 @@
+In this folder we can find the summary statistics of the pqtls for plasma TIMP2 levels.
 
+One of the files contains all  pqtls (base_data_TIMP2.txt) while the other contains those whose p-values in the GWAS of reference were below 5e-05 (base_data_TIMP2_5e05).
